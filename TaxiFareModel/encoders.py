@@ -30,7 +30,7 @@ class DistanceTransformer(BaseEstimator, TransformerMixin):
             Vectorized version of the haversine distance for pandas df.
             Computes the distance in kms.
         """
-
+        #use self to access attributes
         lat_1_rad, lon_1_rad = np.radians(
             df[self.start_lat].astype(float)), np.radians(
                 df[self.start_lon].astype(float))
