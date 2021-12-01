@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lisa2021/code/Lisaaa2021/TaxiFareModel/mlruns/1/ea74934b1ae047c2acc31df3d2f4833d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ea74934b1ae047c2acc31df3d2f4833d
+run_uuid: ea74934b1ae047c2acc31df3d2f4833d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1638364591963
+status: 1
+tags: []
+user_id: unknown
